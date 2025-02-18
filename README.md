@@ -1,3 +1,5 @@
+you will need python installed on you PC https://www.python.org/downloads/ also when installing make sure Add Python to PATH is checked its at the bottom of the installer. 
+
 git clone https://github.com/barneyhk1804/Pizza.git
 
 cd pizza
